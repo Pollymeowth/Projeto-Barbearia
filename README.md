@@ -4,9 +4,11 @@ Este projeto é uma landing page para uma barbearia, desenvolvida com React e ut
 
 ## Como rodar o projeto
 
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/landingpage-barbearia.git
+- ## 🌍 Acesse o Projeto Online
+O site está disponível em: [projeto-barbearia-phi-kohl.vercel.app](projeto-barbearia-phi-kohl.vercel.app)
+
+
+💡 **Dúvidas ou Sugestões?** Fique à vontade para contribuir ou abrir issues no repositório! 🚀
 
 
 ![Meu GIF](assets/gif-barber.gif)
